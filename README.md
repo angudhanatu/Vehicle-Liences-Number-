@@ -1,2 +1,2 @@
-# Vehicle-Liences-Number-
+This project is focused on using ML to scan and detect car plate number. By using the opencv libraries. This ML program is able to accurately fetch car plates license number by narrowing image contour thereby focusing on the numbers and then fetches it to be displayed. This application comes in very handy especially in Nigeria where it is a hurdle to  apprehend traffic defaulters. The application can be installed in traffic lights and other strategic areas to enable traffic law enforcers track and apprehend defaullters using their car plates numbers.  Another usefulness  includes car tracking during theft..# Vehicle-Liences-Number-
 Vehicle plate license number reader
